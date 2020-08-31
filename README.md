@@ -6,7 +6,7 @@
 
 - 💻 I am currently working on my new portfolio
 - 🦠 I am building a COVID19-Tracker using [React]
-- 🥅 I am looking to collaborate more to Open Source projects
+- 👯 I am looking to collaborate more to Open Source projects
 - 🔭 I am willing to learn more about Blockchain development
 
 ### Achievements
@@ -69,6 +69,14 @@
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
+---
+
+### ⚡ Github Stats
+
+<img align="left" alt="Mousticke's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Mousticke&show_icons=true&hide_border=true" />
+
+
 
 [website]: https://akim.benchiha.com
 [twitter]: https://twitter.com/Mousticke
