@@ -1,4 +1,4 @@
-# Hi there, I am Akim aka [Mousticke][websiste] 👋
+# Hi there, I am Akim aka [Mousticke][website] 👋
 
 ## I am an Engineer and Project Manager specialized in Front-End and embedded Systems 💼
 
