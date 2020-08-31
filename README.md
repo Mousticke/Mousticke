@@ -2,14 +2,14 @@
 
 ## I am an Engineer and Project Manager specialized in Front-End and embedded Systems 💼
 
-## Road-map
+### Road-map
 
 - 💻 I am currently working on my new portfolio
 - 🦠 I am building a COVID19-Tracker using [React]
 - 🥅 I am looking to collaborate more to Open Source projects
 - 🔭 I am willing to learn more about Blockchain development
 
-## Achievements
+### Achievements
 
 - To be Added
 
@@ -25,7 +25,6 @@
 <br />
 
 ### Languages and Tools
-
 
 #### Tools
 
