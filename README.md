@@ -2,28 +2,29 @@
 
 ## I am an Engineer and Project Manager specialized in Front-End and embedded Systems 💼
 
-### Road-map
+### 📍 Road-map
 
 - 💻 I am currently working on my new portfolio
-- 🦠 I am building a COVID19-Tracker using [React]
+- 🦠 I am building a COVID19-Tracker using **React**
 - 👯 I am looking to collaborate more to Open Source projects
 - 🔭 I am willing to learn more about Blockchain development
 
-### Achievements
+### ☄️ Achievements
 
 - To be Added
 
+---
 
-### Connect with me
+### 🌐 Connect with me
 
-[<img align="left" alt="Mousticke.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Mousticke | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Mousticke | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Mousticke | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+- [<img align="left" alt="Mousticke.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] [Portfolio]
+- [<img align="left" alt="Mousticke | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] [Twitter]
+- [<img align="left" alt="Mousticke | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] [Linkedin]
+- [<img align="left" alt="Mousticke | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] [Instagram]
 
 <br />
 
-### Languages and Tools
+### 💾 Languages and Tools
 
 #### Tools
 
