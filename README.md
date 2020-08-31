@@ -74,6 +74,9 @@
 
 ### 👨‍💻 Recent Github Activity
 <!--START_SECTION:activity-->
+1. ❗️ Closed issue [#1](https://github.com//Mousticke/Mousticke/issues/1) in [Mousticke/Mousticke](https://github.com//Mousticke/Mousticke)
+2. 🗣 Commented on [#1](https://github.com//Mousticke/Mousticke/issues/1) in [Mousticke/Mousticke](https://github.com//Mousticke/Mousticke)
+3. ❗️ Opened issue [#1](https://github.com//Mousticke/Mousticke/issues/1) in [Mousticke/Mousticke](https://github.com//Mousticke/Mousticke)
 <!--END_SECTION:activity-->
 
 ### ⚡ Github Stats
