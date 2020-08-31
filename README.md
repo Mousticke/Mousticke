@@ -1,5 +1,8 @@
 # Hi there, I am Akim aka [Mousticke][website] 👋
 
+[![Website](https://img.shields.io/website?label=Mousticke.com&style=for-the-badge&url=https%3A%2F%2Fakim.benchiha.com)](https://akim.benchiha.com)
+[![Twitter Follow](https://img.shields.io/twitter/follow/Mousticke?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FMousticke&screen_name=Mousticke)
+
 ## I am an Engineer and Project Manager specialized in Front-End and embedded Systems 💼
 
 ### 📍 Road-map
