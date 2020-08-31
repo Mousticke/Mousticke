@@ -2,6 +2,8 @@
 
 ## I am an Engineer and Project Manager specialized in Front-End and embedded Systems 💼
 
+---
+
 ### Road-map
 
 - 💻 I am currently working on my new portfolio
@@ -13,6 +15,8 @@
 
 - To be Added
 
+---
+
 ### Connect with me
 
 [<img align="left" alt="Mousticke.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -21,6 +25,7 @@
 [<img align="left" alt="Mousticke | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
+---
 
 ### Languages and Tools
 
@@ -67,6 +72,8 @@
 
 <br />
 <br />
+
+---
 
 [website]: https://akim.benchiha.com
 [twitter]: https://twitter.com/Mousticke
