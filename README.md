@@ -72,6 +72,10 @@
 
 ---
 
+### 👨‍💻 Recent Github Activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 ### ⚡ Github Stats
 
 <img align="left" alt="Mousticke's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Mousticke&show_icons=true&hide_border=true" />
