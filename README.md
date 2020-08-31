@@ -17,7 +17,7 @@
 
 ### 🌐 Connect with me
 
-- [<img align="left" alt="Mousticke.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] [Portfolio]
+- [<img align="left" alt="Mousticke.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] [Website]
 - [<img align="left" alt="Mousticke | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] [Twitter]
 - [<img align="left" alt="Mousticke | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] [Linkedin]
 - [<img align="left" alt="Mousticke | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] [Instagram]
