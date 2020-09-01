@@ -78,9 +78,9 @@
 
 ### 👨‍💻 Recent Github Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com//Mousticke/portfolio-new/pull/5) in [Mousticke/portfolio-new](https://github.com//Mousticke/portfolio-new)
-2. 💪 Opened PR [#5](https://github.com//Mousticke/portfolio-new/pull/5) in [Mousticke/portfolio-new](https://github.com//Mousticke/portfolio-new)
-3. ❗️ Closed issue [#1](https://github.com//Mousticke/Mousticke/issues/1) in [Mousticke/Mousticke](https://github.com//Mousticke/Mousticke)
+1. 🎉 Merged PR [#3](https://github.com//Mousticke/portfolio-new/pull/3) in [Mousticke/portfolio-new](https://github.com//Mousticke/portfolio-new)
+2. 🎉 Merged PR [#4](https://github.com//Mousticke/portfolio-new/pull/4) in [Mousticke/portfolio-new](https://github.com//Mousticke/portfolio-new)
+3. 🎉 Merged PR [#5](https://github.com//Mousticke/portfolio-new/pull/5) in [Mousticke/portfolio-new](https://github.com//Mousticke/portfolio-new)
 <!--END_SECTION:activity-->
 
 ### ⚡ Github Stats
