@@ -15,8 +15,6 @@
 
 - To be Added
 
-<br />
-
 # 🌐 Connect with me
 ### Social Media
 [![Twitter Badge](https://img.shields.io/badge/Mousticke-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)][twitter] [![Instagram Badge](https://img.shields.io/badge/Moustick-E4405F?style=for-the-badge&logo=instagram&logoColor=white)][instagram] [![Disord Badge](https://img.shields.io/badge/Mousticke-7289DA?style=for-the-badge&logo=discord&logoColor=white)][discord] [![StackOverFlow Badge](https://img.shields.io/badge/Akim-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)][stack_overflow] 
@@ -30,7 +28,6 @@
 ### Chill and relax
 [![Spotify Badge](https://img.shields.io/badge/Mousticke-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)][spotify]
 
-<br />
 
 # 💾 Languages and Tools
 ### Favorite
@@ -67,14 +64,9 @@
 ### Misc
 [![Markdown Badge](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)]()
 
-
-<br />
-
 # 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-
-<br />
 
 # 👨‍💻 Recent Github Activity
 <!--START_SECTION:activity-->
@@ -82,8 +74,6 @@
 2. 🗣 Commented on [#1](https://github.com//Mousticke/Mousticke/issues/1) in [Mousticke/Mousticke](https://github.com//Mousticke/Mousticke)
 3. ❗️ Opened issue [#1](https://github.com//Mousticke/Mousticke/issues/1) in [Mousticke/Mousticke](https://github.com//Mousticke/Mousticke)
 <!--END_SECTION:activity-->
-
-<br />
 
 ## ⚡ Github Stats
 
