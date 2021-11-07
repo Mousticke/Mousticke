@@ -70,9 +70,9 @@
 
 # 👨‍💻 Recent Github Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com//Mousticke/Mousticke/issues/1) in [Mousticke/Mousticke](https://github.com//Mousticke/Mousticke)
-2. 🗣 Commented on [#1](https://github.com//Mousticke/Mousticke/issues/1) in [Mousticke/Mousticke](https://github.com//Mousticke/Mousticke)
-3. ❗️ Opened issue [#1](https://github.com//Mousticke/Mousticke/issues/1) in [Mousticke/Mousticke](https://github.com//Mousticke/Mousticke)
+1. 🎉 Merged PR [#11](https://github.com/Mousticke/IdeaAppBackEnd/pull/11) in [Mousticke/IdeaAppBackEnd](https://github.com/Mousticke/IdeaAppBackEnd)
+2. 🎉 Merged PR [#2](https://github.com/Mousticke/IdeaAppBackEnd/pull/2) in [Mousticke/IdeaAppBackEnd](https://github.com/Mousticke/IdeaAppBackEnd)
+3. 🎉 Merged PR [#3](https://github.com/Mousticke/IdeaAppBackEnd/pull/3) in [Mousticke/IdeaAppBackEnd](https://github.com/Mousticke/IdeaAppBackEnd)
 <!--END_SECTION:activity-->
 
 ## ⚡ Github Stats
