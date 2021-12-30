@@ -66,6 +66,7 @@
 
 # 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Vulnerabilty exploit : Access to the private state variable in a Smart Contract](https://dev.to/mousticke/vulnerabilty-exploit-access-to-the-private-state-variable-in-a-smart-contract-3h5k)
 <!-- BLOG-POST-LIST:END -->
 
 # 👨‍💻 Recent Github Activity
