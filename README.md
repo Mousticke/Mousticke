@@ -66,6 +66,7 @@
 
 # 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Ethereum2.0 : Rebranding](https://dev.to/mousticke/ethereum20-rebranding-17e2)
 - [Vulnerability exploit : Access to the private state variable in a Smart Contract](https://dev.to/mousticke/vulnerabilty-exploit-access-to-the-private-state-variable-in-a-smart-contract-3h5k)
 <!-- BLOG-POST-LIST:END -->
 
