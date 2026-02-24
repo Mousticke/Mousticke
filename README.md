@@ -1,9 +1,31 @@
-# Hi there, I am Akim aka [Mousticke][website] 👋
+<div align="center">
+  <h1>Hi there, I'm Akim Benchiha aka Mousticke 👋</h1>
+  <h3>CTO Web3 • Ethereum Contributor • Blockchain Engineer</h3>
 
-[![Website](https://img.shields.io/website?label=Mousticke.com&style=for-the-badge&url=https%3A%2F%2Fakim.benchiha.com)](https://akim.benchiha.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/Mousticke?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FMousticke&screen_name=Mousticke)
+  <p>
+    <a href="https://www.gitpoap.io/p/mousticke.eth">
+      <img src="https://img.shields.io/badge/GitPOAP-Ethereum%20Contributor-8b5cf6?style=for-the-badge&logo=ethereum&logoColor=white" alt="GitPOAP Ethereum Contributor" />
+    </a>
+    <a href="https://lu.linkedin.com/in/akim-benchiha">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://twitter.com/Mousticke">
+      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+    </a>
+    <a href="https://akim.benchiha.com">
+      <img src="https://img.shields.io/badge/Akim-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow" />
+    </a>
+    <a href="https://akim.benchiha.com">
+      <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfolio" />
+    </a>
+  </p>
 
-## I'm an Engineer specialized in Blockchain, Front-End and Embedded Systems 💼
+  <p>
+    <strong>Building the future of decentralized systems</strong> — Specialized in Ethereum protocol contributions, Solidity smart contract development, dApp frontends with Next.js, and scalable blockchain infrastructure.
+  </p>
+</div>
+
+---
 
 ### 📍 Road-map
 
@@ -11,76 +33,79 @@
 - 👯 I am looking to collaborate more to Open Source projects
 - Ξ &nbsp; Writing documentation for Ethereum
 
-### ☄️ Achievements
 
-- To be Added
+### 🚀 Core Expertise
 
-# 🌐 Connect with me
-### Social Media
-[![Twitter Badge](https://img.shields.io/badge/Mousticke-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)][twitter] [![Instagram Badge](https://img.shields.io/badge/Moustick-E4405F?style=for-the-badge&logo=instagram&logoColor=white)][instagram] [![Disord Badge](https://img.shields.io/badge/Mousticke-7289DA?style=for-the-badge&logo=discord&logoColor=white)][discord] [![StackOverFlow Badge](https://img.shields.io/badge/Akim-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)][stack_overflow] 
+- **Ethereum & Blockchain** — Active contributor to ethereum.org (multiple merged PRs → rewarded with GitPOAP NFT from Ethereum Foundation). Deep understanding of PoS, scaling (L2s, blobs, Dencun/Fusaka upgrades), account abstraction (ERC-4337), and protocol specs.
+- **Solidity** — Writing secure, gas-optimized smart contracts. Experience with advanced patterns, security audits mindset, upgrades (e.g., upcoming 0.9.0 changes), and EVM internals (opcodes, bytecode).
+- **Next.js & Frontend** — Full-stack dApps with React/Next.js (App Router, SSR, API routes), TypeScript, Tailwind, ethers.js / viem, and wallet integrations (Wagmi, RainbowKit).
+- **Engineering Background** — MEng in Computing Science & Industrial Engineering (@centralelille). Former embedded systems → transitioned to blockchain since 2017.
 
-### Mobile Contact 
-[![Telegram Badge](https://img.shields.io/badge/Akimbch-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)]() [![Whatsapp Badge](https://img.shields.io/badge/AskMe-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)]()
+### 🏆 Key Achievements
 
-### Professional 
-[![Linkedin Badge](https://img.shields.io/badge/Akim-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin] [![Mail Badge](https://img.shields.io/badge/Akim-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akim.benchiha@gmail.com)
+- Ethereum.org contributor — Merged pull requests recognized by the Ethereum Foundation
+  → Claim your proof: [GitPOAP Profile → mousticke.eth](https://www.gitpoap.io/p/mousticke.eth)
+- CTO Web3 @ColossosCrypto — Leading blockchain product development
+- Open-source advocate — Regular contributions to Ethereum ecosystem repos, tooling, and documentation
+- Content & education — Articles on Dev.to & LinkedIn about Solidity internals, Ethereum UX (Account Abstraction), scaling, and security vulnerabilities
 
-### Chill and relax
-[![Spotify Badge](https://img.shields.io/badge/Mousticke-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)][spotify]
+### 🛠️ Tech Stack
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white" />
+  <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Hardhat-000000?style=flat-square&logo=hardhat&logoColor=white" />
+  <img src="https://img.shields.io/badge/Foundry-000000?style=flat-square&logo=foundry&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wagmi-000000?style=flat-square&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/Next-black?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Shell-121011?style=flat-square&logoColor=white" />
+
+</div>
 
 
-# 💾 Languages and Tools
-### Favorite
-[![Ethereum Badge](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)]()
+### 📈 GitHub Stats
 
-### System
-[![C Badge](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)]() [![CPP Badge](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)]() [![Shell Badge](https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)]()
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mousticke&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mousticke&theme=radical&hide_border=true" alt="Streak Stats" width="48%" />
+</div>
 
-### Base
-[![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]() [![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
 
-### Javascript
-[![Javascript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]() [![Jquery Badge](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)]() [![NodeJs Badge](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)]() [![ExpressJS Badge](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)]() [![Typescript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)]()
+### 📝 Recent Writings & Activity
 
-### Front-End
-[![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]() [![Redux Badge](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)]() [![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)]() [![Angular Badge](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)]()
+- Ethereum UX: Account Abstraction (ERC-4337 implementation examples)
+- Solidity security patterns and upcoming language changes
+- Ethereum scaling upgrades deep dives (Dencun, Fusaka, blobs)
 
-### Styling
-[![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)]() [![Styled Component Badge](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)]() [![Material UI Badge](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)]() [![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)]()
+→ Check my [LinkedIn](https://lu.linkedin.com/in/akim-benchiha) for latest posts and discussions.
 
-### Software
-[![CSharp Badge](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)]() [![DotNet Badge](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)]()
 
-### Database
-[![MySQL Badge](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)]() [![MongoDB Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)]() [![DB2 Badge](https://img.shields.io/badge/DB2-00000F?style=for-the-badge&logo=ibm&logoColor=white)]()
+### 🤝 Let's Connect & Collaborate
 
-### Cloud
-[![Azure Badge](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)]() [![Microsoft Badge](https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white)]()
+Open to:
+- Open-source Ethereum / L2 contributions
+- Web3 dApp projects (Next.js + Solidity)
+- Mentoring on blockchain engineering
 
-### Design
-[![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)]() [![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)]()
-[![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)]()
+<p align="center">
+  <a href="https://lu.linkedin.com/in/akim-benchiha">LinkedIn</a> • 
+  <a href="https://twitter.com/Mousticke">Twitter/X</a> • 
+  <a href="https://akim.benchiha.com">Portfolio</a> • 
+  <a href="mailto:your@email.com">Email</a>
+</p>
 
-### Misc
-[![Markdown Badge](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)]() [![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)]()
-
-# 📕 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Ethereum2.0 : Rebranding](https://dev.to/mousticke/ethereum20-rebranding-17e2)
-- [Vulnerability exploit : Access to the private state variable in a Smart Contract](https://dev.to/mousticke/vulnerabilty-exploit-access-to-the-private-state-variable-in-a-smart-contract-3h5k)
-<!-- BLOG-POST-LIST:END -->
-
-# 👨‍💻 Recent Github Activity
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#11](https://github.com/Mousticke/IdeaAppBackEnd/pull/11) in [Mousticke/IdeaAppBackEnd](https://github.com/Mousticke/IdeaAppBackEnd)
-2. 🎉 Merged PR [#2](https://github.com/Mousticke/IdeaAppBackEnd/pull/2) in [Mousticke/IdeaAppBackEnd](https://github.com/Mousticke/IdeaAppBackEnd)
-3. 🎉 Merged PR [#3](https://github.com/Mousticke/IdeaAppBackEnd/pull/3) in [Mousticke/IdeaAppBackEnd](https://github.com/Mousticke/IdeaAppBackEnd)
-<!--END_SECTION:activity-->
-
-## ⚡ Github Stats
-
-<img align="left" alt="Mousticke's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Mousticke&theme=blue-green&show_icons=true&hide_border=true" />
-
+<div align="center">
+  <sub>Ξ Ethereum believer — Let's build decentralized tomorrow.</sub>
+</div>
 
 
 [website]: https://akim.benchiha.com
